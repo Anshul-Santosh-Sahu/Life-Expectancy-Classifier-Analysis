@@ -44,7 +44,7 @@ The dataset used for this project is titled **Life Expectancy Data**. It contain
    ```  
 2. Navigate to the project directory:  
    ```bash  
-   cd life-expectancy-classification  
+   cd Life-Expectancy-Classification-Analysis  
    ```  
 3.Open the Jupyter Notebook and run the cells sequentially:  
    ```bash  
